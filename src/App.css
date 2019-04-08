@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.active{
+  color:red
+}
+
+h1 {
+  font-size: 15vh;
+  color: rgb(231, 146, 71);
+}
